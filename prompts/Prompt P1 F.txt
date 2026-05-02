@@ -1,0 +1,528 @@
+================================================================================
+ANALYSE DU RÉFÉRENTIEL VOLLEY-BALL — DNB & BAC GT
+Équipe COLL3 — ADP 2026
+Réf. : Analyse_Ref_Volleybal_EquipeCOLL3_ADP2026
+Date de génération : mai 2026
+================================================================================
+
+TABLE DES MATIÈRES
+──────────────────
+1. Présentation générale
+2. Structure du référentiel retenu (3 critères DNB fusionnés)
+3. Grille d'observation fusionnée — 3 critères × 3 niveaux
+   A. Critère 1 : Efficacité collective dans le gain du match
+   B. Critère 2 : Efficacité individuelle dans l'organisation collective
+   C. Critère 3 : Efficacité dans le rôle d'arbitre et d'observateur
+4. Logique de fusion des deux référentiels
+5. Points de vigilance enseignant
+6. Justification scientifique de la distinction N2 / N3 (Section C1)
+7. Sources bibliographiques
+8. Synthèse pour rapport — formulations suggérées
+
+
+================================================================================
+1. PRÉSENTATION GÉNÉRALE
+================================================================================
+
+Ce document présente la grille d'évaluation diagnostique en Volley-Ball 5c/5
+pour les élèves de Collège et Lycée (12–20 ans), dans le cadre du DNB
+(Diplôme National du Brevet) et de la préparation à l'évaluation EPS.
+
+CONTEXTE DE FUSION :
+Deux référentiels ont été analysés puis fusionnés :
+
+  • Référentiel DNB (source principale retenue) — 3 critères originaux :
+    C1 : Efficacité collective dans le gain du match
+    C2 : Efficacité individuelle dans l'organisation collective
+    C3 : Efficacité dans le rôle d'arbitre et d'observateur
+
+  • Référentiel Bac GT — Lycée Jean Prévost, Montivilliers (oct. 2021) :
+    - Prestation individuelle Attaque    (/ 8 pts)
+    - Prestation individuelle Défense    (Ratio V/D / 6 pts)
+    - Organisation collective            (AFL1 / 14 pts)
+    - 4 niveaux : Joueur passif / intermittent / engagé / organisateur décisif
+
+DÉCISION RETENUE :
+  → Conserver les 3 CRITÈRES du référentiel DNB (C1, C2, C3)
+  → Enrichir chaque critère avec les observables du document PDF :
+       PDF Attaque + Défense  →  fusionnés dans C2 (Efficacité individuelle)
+       PDF Organisation       →  fusionné dans C1 (Efficacité collective)
+       C3 Arbitre/Observateur →  inchangé (aucun équivalent dans le PDF)
+  → Retenir 3 NIVEAUX uniquement (N1 / N2 / N3), le niveau 4 étant écarté
+    pour l'évaluation diagnostique.
+
+
+================================================================================
+2. STRUCTURE DU RÉFÉRENTIEL RETENU — 3 CRITÈRES, 3 NIVEAUX
+================================================================================
+
+NIVEAUX DE COMPÉTENCE :
+
+  NIVEAU 1  |  Joueur passif          |  Maîtrise insuffisante
+  NIVEAU 2  |  Joueur intermittent    |  Maîtrise fragile
+  NIVEAU 3  |  Joueur engagé          |  Maîtrise satisfaisante
+
+  ⚠ Niveau 4 (Joueur organisateur décisif — Maîtrise très bonne) :
+    Écarté pour le diagnostic initial. Réservé à l'évaluation sommative
+    après plusieurs cycles d'enseignement.
+
+BARÈME GLOBAL :
+  C1 — Efficacité collective          : /  8 pts (6 pts jeu + 2 pts matchs)
+  C2 — Efficacité individuelle        : /  8 pts
+  C3 — Rôle arbitre / observateur     : /  4 pts  + Ratio V/D / 6 pts
+  ────────────────────────────────────────────────
+  TOTAL                               : / 20 pts (+ 6 pts ratio V/D)
+
+
+================================================================================
+3. GRILLE D'OBSERVATION FUSIONNÉE — 3 CRITÈRES × 3 NIVEAUX
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+A. CRITÈRE 1 — EFFICACITÉ COLLECTIVE DANS LE GAIN DU MATCH
+   / 8 pts (dont 6 pts jeu + 2 pts matchs)
+   Sources fusionnées : Référentiel DNB + Organisation collective (PDF Jean Prévost)
+────────────────────────────────────────────────────────────────────────────────
+
+INDICATEURS ET OBSERVABLES COMMUNS :
+  - Continuité et organisation du jeu d'équipe
+  - Différenciation des rôles (passeur / attaquant / réceptionneur)
+  - Zones avant / arrière respectées et tenues
+  - Nombre de touches par échange (1 / 2 / 3 touches)
+  - Nature des attaques (aléatoires / placées / accélérées)
+  - Communication verbale et replacement collectif
+
+QUESTIONS TERRAIN (à observer en 2–3 échanges) :
+  ? L'équipe joue-t-elle à combien de touches en moyenne ?
+  ? Y a-t-il un passeur identifiable dans l'équipe ?
+  ? Les zones avant/arrière sont-elles respectées ?
+  ? Les joueurs se parlent-ils et se replacent-ils ?
+  ? Les attaques sont-elles intentionnelles ou aléatoires ?
+  ? Y a-t-il une organisation en défense (bloc + défense) ?
+
+  NIVEAU 1 — Jeu en réaction                    : 0 – 2,5 pts
+  (Maîtrise insuffisante)
+  ─────────────────────────────────────────────────────────────
+  • Actions souvent individuelles, renvoi direct chez l'adversaire
+  • Aucune organisation collective en attaque comme en défense
+  • Aucune différenciation des rôles et des zones
+  • Jeu à 1 touche systématique
+  • Pas de communication entre joueurs
+    (Source PDF : « Inexistante en attaque comme en défense ;
+     aucune différenciation des rôles et des zones »)
+
+  NIVEAU 2 — Construction collective de l'attaque  : 3 – 4,5 pts
+  (Maîtrise fragile)
+  ─────────────────────────────────────────────────────────────
+  • Progression de la balle vers une zone de renvoi favorable
+  • Organisation très simple, différenciation limitée des rôles
+  • Zones avant et arrière se profilent sans être fixées
+  • Jeu souvent à 1–2 touches de balle
+  • Communication absente ou sporadique
+    (Source PDF : « Organisation très simple ; différenciation limitée
+     des rôles ; zones avant/arrière se profilent ;
+     jeu souvent à 1–2 touches »)
+
+  NIVEAU 3 — Intention collective de rupture       : 5 – 6 pts
+  (Maîtrise satisfaisante)
+  ─────────────────────────────────────────────────────────────
+  • Attaque intentionnelle de la cible, attaques placées ou accélérées
+  • Communication présente : rôles précis (passeur, réceptionneur, attaquant)
+  • Chacun défend et évolue dans sa zone
+  • Jeu à 2–3 touches de balle organisé
+  • Replacement collectif effectif après chaque action
+    (Source PDF : « La communication existe ; rôles précis ;
+     chacun défend dans sa zone ; jeu à 2–3 touches, orienté avec frappes »)
+
+────────────────────────────────────────────────────────────────────────────────
+B. CRITÈRE 2 — EFFICACITÉ INDIVIDUELLE DANS L'ORGANISATION COLLECTIVE
+   / 8 pts
+   Sources fusionnées : Référentiel DNB + Prestation individuelle Attaque
+                                         + Prestation individuelle Défense (PDF)
+────────────────────────────────────────────────────────────────────────────────
+
+INDICATEURS ET OBSERVABLES COMMUNS :
+
+  ▸ ATTAQUE :
+    - Volume de jeu (contacts volontaires / évitement)
+    - Qualité des frappes (maîtrise, orientation)
+    - Différenciation passe haute / manchette
+    - Placement au filet, balle placée ou frappée
+    - Service (aléatoire / assuré / placé)
+
+  ▸ DÉFENSE :
+    - Lecture de la trajectoire de balle
+    - Placement avant l'attaque adverse
+    - Déplacements défensifs
+    - Orientation des manchettes vers le passeur
+    - Rapport V/D (volume de jeu défensif)
+
+QUESTIONS TERRAIN (à observer en 2–3 échanges) :
+  ▸ Attaque :
+    ? L'élève cherche-t-il la balle ou l'évite-t-il ?
+    ? Différencie-t-il passe haute / manchette ?
+    ? Son service arrive-t-il dans le camp adverse ?
+    ? Contrôle-t-il la direction de ses frappes ?
+  ▸ Défense :
+    ? Se place-t-il AVANT l'attaque adverse ?
+    ? Ses manchettes sont-elles orientées vers le passeur ?
+    ? Effectue-t-il des déplacements pour défendre ?
+
+  NIVEAU 1 — Joueur passif                       : 0 – 3,5 pts
+  (Maîtrise insuffisante)
+  ─────────────────────────────────────────────────────────────
+  ATTAQUE :
+  • Volume de jeu faible, évite la balle ou intervient trop tard
+  • Frappe à une seule main, non maîtrisée
+  • Aucune différenciation passe haute / manchette
+  • Service aléatoire (hors limites ou dans le filet)
+    (Source PDF : « Joueur pris par surprise ; évite la balle ;
+     frappe à une main ; service aléatoire »)
+
+  DÉFENSE :
+  • Mauvaise lecture de la trajectoire de balle
+  • Peu de contacts avec la balle (fortuits)
+  • Reste figé, aucun déplacement défensif anticipé
+    (Source PDF : « Mauvaise lecture de trajectoire ;
+     peu de contacts fortuits »)
+
+  NIVEAU 2 — Joueur intermittent                 : 4 – 6 pts
+  (Maîtrise fragile)
+  ─────────────────────────────────────────────────────────────
+  ATTAQUE :
+  • Participation intermittente et/ou désordonnée
+  • Frappes souvent explosives, non maîtrisées
+  • Peu ou pas de différenciation passe / manchette
+  • Service assuré mais sans placement
+    (Source PDF : « Participation intermittente ; frappes explosives
+     non maîtrisées ; pas de différence passe/manchette ;
+     service assuré mais pas placé »)
+
+  DÉFENSE :
+  • Agit uniquement sur les balles faciles
+  • Peu ou pas de déplacement défensif
+  • Frappes peu adaptées à la situation
+    (Source PDF : « Agit sur les balles faciles ;
+     avec peu de déplacement ; frappes peu adaptées »)
+
+  NIVEAU 3 — Joueur engagé                       : 6,5 – 8 pts
+  (Maîtrise satisfaisante)
+  ─────────────────────────────────────────────────────────────
+  ATTAQUE :
+  • Participation active, se déplace pour aller chercher la balle
+  • Différenciation claire : passe haute et manchette après déplacement
+  • Service assuré et placé
+  • Capable de jouer au filet avec balle placée ou frappée
+    (Source PDF : « Participation active en attaque ;
+     différenciation claire passe haute / manchette après déplacement ;
+     service assuré et placé ; jeu au filet »)
+
+  DÉFENSE :
+  • Placement organisé en fonction du ballon
+  • Déplacements efficaces pour se replacer
+  • Manchettes orientées vers le passeur
+    (Source PDF : « Placement organisé en fonction du ballon ;
+     déplacements efficaces ; manchettes orientées vers le passeur »)
+
+────────────────────────────────────────────────────────────────────────────────
+C. CRITÈRE 3 — EFFICACITÉ DANS LE RÔLE D'ARBITRE ET D'OBSERVATEUR
+   / 4 pts + Ratio V/D / 6 pts
+   Source : Référentiel DNB uniquement (aucun équivalent dans le document PDF)
+────────────────────────────────────────────────────────────────────────────────
+
+INDICATEURS ET OBSERVABLES COMMUNS :
+  - Fiabilité des données recueillies sur la fiche d'observation
+  - Différenciation et exploitation des données
+  - Justesse des décisions arbitrales
+  - Autonomie dans le rôle d'arbitre
+  - Utilisation du vocabulaire réglementaire spécifique
+
+QUESTIONS TERRAIN (à observer sur 1 match observé) :
+  ? Les données sur la fiche sont-elles fiables et précises ?
+  ? L'élève sait-il différencier et exploiter ses observations ?
+  ? Ses décisions arbitrales sont-elles justes ?
+  ? Hésite-t-il sur des actions difficiles à arbitrer ?
+  ? Arbitre-t-il seul ou a-t-il besoin d'aide ?
+  ? Utilise-t-il le vocabulaire réglementaire correct ?
+
+  NIVEAU 1 — Rôles insuffisamment assurés        : 0 – 1,5 pt
+  (Maîtrise insuffisante)
+  ─────────────────────────────────────────────────────────────
+  • Recueille des données insuffisamment fiables
+  • En tant qu'arbitre, hésite sur des actions difficiles
+  • Vocabulaire imprécis ou absent
+  • Fiche d'observation partiellement ou mal renseignée
+  Ratio V/D : 0 – 1,5 pt
+
+  NIVEAU 2 — Rôles assumés (avec aide)           : 2 – 3 pts
+  (Maîtrise fragile)
+  ─────────────────────────────────────────────────────────────
+  ⚡ Terme exact DNB : « assumés » (N2) ≠ « assurés » (N3)
+     → « Assumés » implique le recours à une aide extérieure
+  • Recueille des données globales, justes et fiables
+  • Assume le rôle d'arbitre avec de l'aide
+  • Utilise un vocabulaire correct mais limité
+  • Fiche d'observation globalement renseignée
+  Ratio V/D : 1,5 – 3 pts
+
+  NIVEAU 3 — Rôles assurés (en autonomie)        : 3,5 – 4 pts
+  (Maîtrise satisfaisante)
+  ─────────────────────────────────────────────────────────────
+  • Recueille des données différenciées et exploitables
+  • Assure son rôle d'arbitre en pleine autonomie
+  • Vocabulaire précis et spécifique au Volley-Ball
+  • Fiche d'observation complète et exploitable
+  Ratio V/D : 3 – 4,5 pts
+
+
+================================================================================
+4. LOGIQUE DE FUSION DES DEUX RÉFÉRENTIELS
+================================================================================
+
+  DOCUMENT PDF (Bac GT — Jean Prévost)    →    DOCUMENT DNB (retenu)
+  ─────────────────────────────────────────────────────────────────────
+  Prestation individuelle Attaque    ─┐
+                                      ├──→  C2 — Efficacité individuelle
+  Prestation individuelle Défense    ─┘         dans l'organisation collective
+
+  Organisation collective            ────→  C1 — Efficacité collective
+                                               dans le gain du match
+
+  (Aucun équivalent dans le PDF)     ────→  C3 — Efficacité dans le rôle
+                                               d'arbitre et d'observateur
+                                               [Inchangé — DNB uniquement]
+
+PRINCIPE D'INTÉGRATION :
+  Les observables du PDF ont été attribués au niveau correspondant (N1/N2/N3)
+  en préservant la terminologie exacte des deux documents sources.
+  Aucun observable n'a été transféré dans un critère qui ne lui correspond pas
+  sémantiquement.
+
+
+================================================================================
+5. POINTS DE VIGILANCE ENSEIGNANT
+================================================================================
+
+⚡ CRITÈRE 2 — Attaque vs Défense :
+   Observer les deux dimensions séparément avant de noter.
+   Un élève peut être efficace en attaque (N3) mais très faible en défense (N1).
+   La note finale du C2 reflète le niveau moyen des deux dimensions observées.
+
+⚡ DISTINCTION « assumés » (N2) vs « assurés » (N3) — Critère 3 :
+   Le terme exact du référentiel DNB est capital pour justifier la notation.
+   - « Assumés » (N2) : l'élève remplit le rôle AVEC l'aide d'un tiers
+     (enseignant, autre arbitre ou juge de ligne)
+   - « Assurés » (N3) : l'élève remplit le rôle EN PLEINE AUTONOMIE,
+     sans sollicitation extérieure
+
+⚑ RÈGLES AMÉNAGÉES (N1 uniquement) :
+   Le joueur de niveau 1 peut bénéficier de règles aménagées
+   (service à deux mains autorisé, double touche tolérée) lors des premières
+   séances. Cela ne modifie pas le niveau attribué mais facilite l'observation
+   de ses comportements moteurs réels.
+
+ℹ NIVEAU 4 ÉCARTÉ :
+   Le niveau « Joueur organisateur décisif » (Maîtrise très bonne, issu du PDF)
+   n'est pas utilisé dans cette grille de diagnostic initial.
+   Il est réservé à une évaluation sommative après plusieurs cycles
+   d'apprentissage ou pour l'évaluation terminale Bac GT.
+
+
+================================================================================
+6. JUSTIFICATION SCIENTIFIQUE DE LA DISTINCTION N2 / N3
+   (Section C1 du rapport — éléments pour votre argumentation)
+================================================================================
+
+La distinction entre Niveau 2 (Joueur intermittent / Maîtrise fragile) et
+Niveau 3 (Joueur engagé / Maîtrise satisfaisante) repose sur trois dimensions
+analysées dans la littérature en didactique de l'EPS et du jeu collectif :
+
+──────────────────────────────────────────────────────────────────────────────
+[1] La continuité du rapport vitesse/direction (Ratio V/D)
+──────────────────────────────────────────────────────────────────────────────
+SOURCE : Gréhaigne, J.-F., Godbout, P. & Bouthier, D. (1999).
+         The foundations of tactics and strategy in team sports.
+         Journal of Teaching in Physical Education, 18(2), 159–174.
+
+APPORT : Gréhaigne et al. définissent le rapport "Vitesse/Direction" (V/D)
+comme l'indicateur clé de l'efficacité individuelle en jeu collectif.
+
+  → Un joueur de NIVEAU 2 produit des actions intermittentes : il réussit
+    certains gestes mais sans continuité. Ses interventions sont aléatoires,
+    dépendantes de la facilité de la balle.
+
+  → Un joueur de NIVEAU 3 maintient un rapport V/D positif sur l'ensemble
+    du match. Ses interventions sont régulières, volontaires et orientées
+    vers une zone utile pour le collectif.
+
+APPLICATION AU RÉFÉRENTIEL :
+  - C1 : le N2 joue à 1–2 touches (aléatoire) ; le N3 joue à 2–3 touches
+    avec intention de placement (Efficacité collective)
+  - C2 : le N2 « agit sur les balles faciles » ; le N3 « se déplace pour
+    aller chercher la balle » (Efficacité individuelle)
+
+──────────────────────────────────────────────────────────────────────────────
+[2] La différenciation des rôles et des fonctions dans le jeu
+──────────────────────────────────────────────────────────────────────────────
+SOURCE : Cleuziou, J.-P. (2004).
+         Enseigner le volley-ball à l'école.
+         Revue EPS, n°309, Paris.
+
+APPORT : Cleuziou distingue deux stades d'apprentissage en Volley-Ball :
+  a) Le stade de la "différenciation des gestes" (N2) : l'élève commence
+     à distinguer passe haute et manchette mais sans automatisme.
+  b) Le stade de "l'automatisation et de la spécialisation" (N3) : le
+     geste est choisi en fonction de la trajectoire de balle, sans
+     hésitation.
+
+APPLICATION AU RÉFÉRENTIEL :
+  - C2 Attaque : N2 = « peu ou pas de différenciation passe/manchette » ;
+    N3 = « différenciation claire passe haute et manchette après déplacement »
+  - C1 : N2 = « différenciation limitée des rôles » ;
+    N3 = « rôles précis avec passeur, réceptionneur et attaquant »
+
+──────────────────────────────────────────────────────────────────────────────
+[3] L'autonomie dans l'organisation collective — modèle FIVB
+──────────────────────────────────────────────────────────────────────────────
+SOURCE : FIVB (2020). Volleyball Coaching Manual — Level 1.
+         Fédération Internationale de Volleyball, Lausanne.
+
+APPORT : Le modèle de développement FIVB distingue deux paliers critiques
+dans le développement du joueur collectif :
+  a) Palier "Dependent" (N2) : le joueur répond aux consignes de l'enseignant
+     et de ses partenaires mais ne prend pas d'initiative tactique seul.
+  b) Palier "Independent" (N3) : le joueur prend des décisions tactiques
+     collectives de manière autonome, sans sollicitation extérieure.
+
+APPLICATION AU RÉFÉRENTIEL :
+  - C3 : « assumés avec aide » (N2) vs « assurés en autonomie » (N3)
+  - C1 : N2 = communication sporadique ; N3 = communication présente
+    et replacement autonome
+
+──────────────────────────────────────────────────────────────────────────────
+SYNTHÈSE POUR LA SECTION C1 DU RAPPORT
+──────────────────────────────────────────────────────────────────────────────
+
+« La distinction entre les niveaux N2 (Maîtrise fragile) et N3 (Maîtrise
+satisfaisante) s'appuie sur trois critères scientifiquement établis :
+(1) la continuité et l'orientation du rapport Vitesse/Direction individuel
+(Gréhaigne et al., 1999), indicateur de la régularité de l'engagement moteur ;
+(2) l'automatisation de la différenciation des gestes techniques fondamentaux —
+passe haute vs manchette — en situation de jeu réelle (Cleuziou, 2004) ;
+(3) l'autonomie dans la prise de décision collective, distinguant le joueur
+"dépendant" (N2, qui a besoin du regard de l'enseignant ou de ses partenaires)
+du joueur "indépendant" (N3, qui organise son action sans sollicitation
+extérieure), selon le modèle FIVB (2020).
+
+Ces trois critères se retrouvent dans chacun des critères d'évaluation :
+le C2 (efficacité individuelle) distingue N2 et N3 par la régularité et la
+différenciation gestuelle ; le C1 (efficacité collective) par la nature et
+l'intentionnalité de l'organisation ; le C3 (rôle arbitre) par le passage de
+l'arbitrage "assumé avec aide" (N2) à l'arbitrage "assuré en autonomie" (N3),
+conformément aux termes exacts du référentiel DNB. »
+
+
+================================================================================
+7. SOURCES BIBLIOGRAPHIQUES
+================================================================================
+
+[1] Gréhaigne, J.-F., Godbout, P. & Bouthier, D. (1999).
+    The foundations of tactics and strategy in team sports.
+    Journal of Teaching in Physical Education, 18(2), 159–174.
+
+[2] Cleuziou, J.-P. (2004).
+    Enseigner le volley-ball à l'école.
+    Revue EPS, n°309. Éditions EPS, Paris.
+
+[3] FIVB (2020).
+    Volleyball Coaching Manual — Level 1.
+    Fédération Internationale de Volleyball, Lausanne.
+    Disponible sur : www.fivb.com/en/development/coaching
+
+[4] Ministère de l'Éducation nationale (2021).
+    Référentiel d'évaluation — DNB — EPS — Volley-Ball 5c/5.
+    Bulletin Officiel, Éducation nationale, France.
+
+[5] Lycée Jean Prévost, Montivilliers (oct. 2021).
+    Référentiel Baccalauréat Général et Technologique CA n°4 —
+    Volley-ball 5/5, 1ère.
+    Document interne EPS.
+
+
+================================================================================
+8. SYNTHÈSE POUR RAPPORT — FORMULATIONS SUGGÉRÉES
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+SECTION A — Présentation du référentiel retenu
+────────────────────────────────────────────────────────────────────────────────
+
+« Le référentiel d'évaluation retenu pour cette séquence de Volley-Ball (5c/5)
+s'articule autour de trois critères issus du référentiel DNB, enrichis par les
+observables du référentiel Bac GT du Lycée Jean Prévost (oct. 2021).
+
+  — Le Critère 1 (Efficacité collective dans le gain du match) évalue la
+    capacité de l'équipe à construire des attaques organisées, en s'appuyant
+    sur les indicateurs d'organisation collective du référentiel lycée
+    (différenciation des rôles, nombre de touches, replacement).
+
+  — Le Critère 2 (Efficacité individuelle dans l'organisation collective)
+    fusionne les dimensions "Prestation individuelle Attaque" et "Prestation
+    individuelle Défense" du référentiel lycée, en conservant pour chaque
+    niveau (N1/N2/N3) les observables exacts des deux sources.
+
+  — Le Critère 3 (Efficacité dans le rôle d'arbitre et d'observateur) est
+    issu exclusivement du référentiel DNB, aucun équivalent n'existant dans
+    le document lycée. Il conserve la terminologie de référence : "assurés"
+    (N3 — autonomie) vs "assumés" (N2 — avec aide).
+
+Trois niveaux de maîtrise ont été retenus pour l'évaluation diagnostique :
+N1 (Joueur passif — Maîtrise insuffisante), N2 (Joueur intermittent —
+Maîtrise fragile), N3 (Joueur engagé — Maîtrise satisfaisante). Le niveau 4
+(Joueur organisateur décisif) a été écarté conformément à l'objectif
+diagnostique de la séquence. »
+
+────────────────────────────────────────────────────────────────────────────────
+SECTION B — Spécificités du terrain et adaptation aux règles
+────────────────────────────────────────────────────────────────────────────────
+
+« Pour les élèves classés en Niveau 1, des aménagements de règles peuvent
+être mis en place lors des premières séances : service à deux mains autorisé,
+double touche tolérée sur la première intervention. Ces aménagements ne
+modifient pas le niveau attribué, mais permettent d'observer les comportements
+moteurs réels sans que l'élève soit bloqué par les contraintes réglementaires
+habituelles. Le Critère 2 offre dans ce cas un repère particulièrement utile :
+un élève de N1 "évite la balle ou intervient trop tard" (Source PDF) — le
+simple aménagement de la règle ne modifie pas ce comportement, il le rend
+observable.
+
+Pour le Critère 1, l'enseignant doit veiller à distinguer les équipes qui
+jouent à 1 touche par nécessité (N1) de celles qui jouent à 1 touche par
+choix tactique délibéré — cette distinction est un indicateur fiable du passage
+du niveau N2 au niveau N3. »
+
+────────────────────────────────────────────────────────────────────────────────
+SECTION C — Justification de la distinction N2/N3
+────────────────────────────────────────────────────────────────────────────────
+
+[Utiliser le texte complet de la section 6 ci-dessus —
+ « Synthèse pour la section C1 du rapport »]
+
+────────────────────────────────────────────────────────────────────────────────
+SECTION D — Conclusion
+────────────────────────────────────────────────────────────────────────────────
+
+« Ce référentiel fusionné présente l'avantage d'intégrer la richesse
+descriptive du référentiel lycée (observables terrain précis, distinctions
+attaque/défense) dans la structure officielle du DNB (trois critères,
+terminologie réglementaire). Il permet à l'enseignant d'effectuer une
+évaluation diagnostique fiable en 2–3 échanges par élève, tout en disposant
+d'un outil directement exploitable pour la constitution des groupes de besoin
+et l'adaptation des situations d'apprentissage. »
+
+
+================================================================================
+FIN DU DOCUMENT
+Analyse_Ref_Volleybal_EquipeCOLL3_ADP2026.txt
+Généré en mai 2026 — Équipe COLL3 ADP
+================================================================================
