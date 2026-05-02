@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Markdown Export</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/md-editor-v3/lib/preview.css">
+  <style>
+    body { 
+      font-family: Arial, sans-serif; 
+      max-width: 800px; 
+      margin: 0 auto; 
+      padding: 20px; 
+    }
+  </style>
+</head>
+<body>
+  <div class="markdown-preview">
+    <div id="md-editor-v-0-preview" class="md-editor-preview default-theme md-editor-scrn"><h1 data-line="0" id="Analyse Référentiel Volleyball — DNB &amp; Bac GT">Analyse Référentiel Volleyball — DNB &amp; Bac GT</h1>
+<p data-line="1"><strong>Équipe COLL3 · ADP 2026</strong><br>
+<code>Réf. : Analyse_Ref_Volleybal_EquipeCOLL3_ADP2026</code></p>
+<hr data-line="4">
+<h2 data-line="6" id="Sommaire">Sommaire</h2>
+<ol data-line="8">
+<li data-line="8"><a href="#1-contexte-et-objectif-du-projet">Contexte et objectif du projet</a></li>
+<li data-line="9"><a href="#2-sources-fusionn%C3%A9es">Sources fusionnées</a></li>
+<li data-line="10"><a href="#3-structure-retenue--3-crit%C3%A8res--3-niveaux">Structure retenue — 3 critères · 3 niveaux</a></li>
+<li data-line="11"><a href="#4-grille-dobservation-fusionn%C3%A9e">Grille d'observation fusionnée</a>
+<ul data-line="12">
+<li data-line="12"><a href="#c1--efficacit%C3%A9-collective-dans-le-gain-du-match">C1 — Efficacité collective</a></li>
+<li data-line="13"><a href="#c2--efficacit%C3%A9-individuelle-dans-lorganisation-collective">C2 — Efficacité individuelle</a></li>
+<li data-line="14"><a href="#c3--efficacit%C3%A9-dans-le-r%C3%B4le-darbitre-et-dobservateur">C3 — Rôle arbitre / observateur</a></li>
+</ul>
+</li>
+<li data-line="15"><a href="#5-logique-de-fusion-des-deux-r%C3%A9f%C3%A9rentiels">Logique de fusion des deux référentiels</a></li>
+<li data-line="16"><a href="#6-points-de-vigilance-enseignant">Points de vigilance enseignant</a></li>
+<li data-line="17"><a href="#7-justification-scientifique-de-la-distinction-n2--n3">Justification scientifique de la distinction N2 / N3</a></li>
+<li data-line="18"><a href="#8-sources-bibliographiques">Sources bibliographiques</a></li>
+<li data-line="19"><a href="#9-application-web--description-technique">Application web — Description technique</a></li>
+<li data-line="20"><a href="#10-formulations-sugg%C3%A9r%C3%A9es-pour-le-rapport">Formulations suggérées pour le rapport</a></li>
+</ol>
+<hr data-line="22">
+<h2 data-line="24" id="1. Contexte et objectif du projet">1. Contexte et objectif du projet</h2>
+<p data-line="26">Ce projet produit un <strong>outil d'évaluation diagnostique en Volley-Ball 5c/5</strong> destiné aux enseignants d'EPS, pour les élèves de Collège et Lycée (12–20 ans), dans le cadre du <strong>DNB — Diplôme National du Brevet</strong>.</p>
+<p data-line="28">L'outil comprend trois composantes :</p>
+<table data-line="30">
+<thead data-line="30">
+<tr data-line="30">
+<th>Composante</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody data-line="32">
+<tr data-line="32">
+<td><strong>Tableau du référentiel</strong></td>
+<td>Grille fusionnée 3 critères × 3 niveaux avec observables détaillés</td>
+</tr>
+<tr data-line="33">
+<td><strong>Fiche d'observation terrain</strong></td>
+<td>Fiche par élève avec sélecteurs de niveau, scores et totaux automatiques</td>
+</tr>
+<tr data-line="34">
+<td><strong>Grille d'évaluation de classe</strong></td>
+<td>Tableau classe complet, cliquable, imprimable en A3</td>
+</tr>
+</tbody>
+</table>
+<hr data-line="36">
+<h2 data-line="38" id="2. Sources fusionnées">2. Sources fusionnées</h2>
+<h3 data-line="40" id="Référentiel DNB (source principale retenue)">Référentiel DNB <em>(source principale retenue)</em></h3>
+<p data-line="41">Trois critères originaux :</p>
+<ul data-line="42">
+<li data-line="42"><strong>C1</strong> : Efficacité collective dans le gain du match</li>
+<li data-line="43"><strong>C2</strong> : Efficacité individuelle dans l'organisation collective</li>
+<li data-line="44"><strong>C3</strong> : Efficacité dans le rôle d'arbitre et d'observateur</li>
+</ul>
+<h3 data-line="46" id="Référentiel Bac GT — Lycée Jean Prévost, Montivilliers (oct. 2021)">Référentiel Bac GT — Lycée Jean Prévost, Montivilliers <em>(oct. 2021)</em></h3>
+<p data-line="47">Trois critères sources :</p>
+<ul data-line="48">
+<li data-line="48">Prestation individuelle <strong>Attaque</strong> (/ 8 pts)</li>
+<li data-line="49">Prestation individuelle <strong>Défense</strong> + Ratio V/D (/ 6 pts)</li>
+<li data-line="50"><strong>Organisation collective</strong> — AFL1 (/ 14 pts)</li>
+<li data-line="51">4 niveaux : Joueur passif / intermittent / engagé / organisateur décisif</li>
+</ul>
+<hr data-line="53">
+<h2 data-line="55" id="3. Structure retenue — 3 critères · 3 niveaux">3. Structure retenue — 3 critères · 3 niveaux</h2>
+<h3 data-line="57" id="Niveaux de compétence">Niveaux de compétence</h3>
+<table data-line="59">
+<thead data-line="59">
+<tr data-line="59">
+<th style="text-align:center">Niveau</th>
+<th>Profil</th>
+<th>Maîtrise</th>
+</tr>
+</thead>
+<tbody data-line="61">
+<tr data-line="61">
+<td style="text-align:center"><strong>N1</strong></td>
+<td>Joueur passif</td>
+<td>Insuffisante</td>
+</tr>
+<tr data-line="62">
+<td style="text-align:center"><strong>N2</strong></td>
+<td>Joueur intermittent</td>
+<td>Fragile</td>
+</tr>
+<tr data-line="63">
+<td style="text-align:center"><strong>N3</strong></td>
+<td>Joueur engagé</td>
+<td>Satisfaisante</td>
+</tr>
+</tbody>
+</table>
+<blockquote data-line="65">
+<p data-line="65">⚠️ <strong>Niveau 4 (Joueur organisateur décisif — Maîtrise très bonne)</strong> écarté pour le diagnostic initial. Réservé à l'évaluation sommative après plusieurs cycles.</p>
+</blockquote>
+<h3 data-line="67" id="Barème global">Barème global</h3>
+<table data-line="69">
+<thead data-line="69">
+<tr data-line="69">
+<th>Critère</th>
+<th style="text-align:center">Points</th>
+</tr>
+</thead>
+<tbody data-line="71">
+<tr data-line="71">
+<td>C1 — Efficacité collective</td>
+<td style="text-align:center">/ 8 pts <em>(6 jeu + 2 matchs)</em></td>
+</tr>
+<tr data-line="72">
+<td>C2 — Efficacité individuelle</td>
+<td style="text-align:center">/ 8 pts</td>
+</tr>
+<tr data-line="73">
+<td>C3 — Rôle arbitre / observateur</td>
+<td style="text-align:center">/ 4 pts + Ratio V/D / 6 pts</td>
+</tr>
+<tr data-line="74">
+<td><strong>TOTAL</strong></td>
+<td style="text-align:center"><strong>/ 20 pts</strong> <em>(+ 6 ratio V/D)</em></td>
+</tr>
+</tbody>
+</table>
+<hr data-line="76">
+<h2 data-line="78" id="4. Grille d'observation fusionnée">4. Grille d'observation fusionnée</h2>
+<h3 data-line="80" id="C1 — Efficacité collective dans le gain du match">C1 — Efficacité collective dans le gain du match</h3>
+<p data-line="81"><em>/ 8 pts · Sources : DNB + Organisation collective (PDF Jean Prévost)</em></p>
+<p data-line="83"><strong>Indicateurs observés :</strong></p>
+<ul data-line="84">
+<li data-line="84">Continuité et organisation du jeu d'équipe</li>
+<li data-line="85">Différenciation des rôles (passeur / attaquant / réceptionneur)</li>
+<li data-line="86">Zones avant / arrière respectées</li>
+<li data-line="87">Nombre de touches par échange</li>
+<li data-line="88">Nature des attaques (aléatoires / placées / accélérées)</li>
+<li data-line="89">Communication verbale et replacement collectif</li>
+</ul>
+<p data-line="91"><strong>Questions terrain :</strong></p>
+<ul data-line="92">
+<li data-line="92">L'équipe joue-t-elle à combien de touches en moyenne ?</li>
+<li data-line="93">Y a-t-il un passeur identifiable ?</li>
+<li data-line="94">Les zones avant/arrière sont-elles respectées ?</li>
+<li data-line="95">Les joueurs se parlent-ils et se replacent-ils ?</li>
+</ul>
+<table data-line="97">
+<thead data-line="97">
+<tr data-line="97">
+<th>Niveau</th>
+<th style="text-align:center">Score</th>
+<th>Descripteurs</th>
+</tr>
+</thead>
+<tbody data-line="99">
+<tr data-line="99">
+<td><strong>N1</strong> — Jeu en réaction</td>
+<td style="text-align:center">0 – 2,5 pts</td>
+<td>Actions individuelles · renvoi direct · aucune organisation · jeu 1 touche · pas de communication <em>(Source PDF : « Inexistante en attaque comme en défense »)</em></td>
+</tr>
+<tr data-line="100">
+<td><strong>N2</strong> — Construction collective</td>
+<td style="text-align:center">3 – 4,5 pts</td>
+<td>Progression vers une zone favorable · organisation simple · zones se profilent · 1–2 touches · communication sporadique <em>(Source PDF : « Organisation très simple ; jeu souvent à 1–2 touches »)</em></td>
+</tr>
+<tr data-line="101">
+<td><strong>N3</strong> — Intention de rupture</td>
+<td style="text-align:center">5 – 6 pts</td>
+<td>Attaques intentionnelles · rôles précis · chacun dans sa zone · 2–3 touches · replacement effectif <em>(Source PDF : « Communication présente ; jeu à 2–3 touches orienté »)</em></td>
+</tr>
+</tbody>
+</table>
+<hr data-line="103">
+<h3 data-line="105" id="C2 — Efficacité individuelle dans l'organisation collective">C2 — Efficacité individuelle dans l'organisation collective</h3>
+<p data-line="106"><em>/ 8 pts · Sources : DNB + Prestation individuelle Attaque + Défense (PDF)</em></p>
+<p data-line="108"><strong>Indicateurs — ▸ Attaque :</strong></p>
+<ul data-line="109">
+<li data-line="109">Volume de jeu (contacts volontaires)</li>
+<li data-line="110">Qualité des frappes, orientation</li>
+<li data-line="111">Différenciation passe haute / manchette</li>
+<li data-line="112">Service (aléatoire / assuré / placé)</li>
+</ul>
+<p data-line="114"><strong>Indicateurs — ▸ Défense :</strong></p>
+<ul data-line="115">
+<li data-line="115">Lecture de trajectoire</li>
+<li data-line="116">Placement avant l'attaque adverse</li>
+<li data-line="117">Déplacements défensifs</li>
+<li data-line="118">Orientation des manchettes vers le passeur</li>
+</ul>
+<table data-line="120">
+<thead data-line="120">
+<tr data-line="120">
+<th>Niveau</th>
+<th style="text-align:center">Score</th>
+<th>Attaque</th>
+<th>Défense</th>
+</tr>
+</thead>
+<tbody data-line="122">
+<tr data-line="122">
+<td><strong>N1</strong> — Passif</td>
+<td style="text-align:center">0 – 3,5 pts</td>
+<td>Évite la balle · frappe 1 main · pas de différenciation · service aléatoire</td>
+<td>Mauvaise lecture · contacts fortuits · pas de déplacement</td>
+</tr>
+<tr data-line="123">
+<td><strong>N2</strong> — Intermittent</td>
+<td style="text-align:center">4 – 6 pts</td>
+<td>Participation désordonnée · frappes non maîtrisées · peu de différenciation · service sans placement</td>
+<td>Balles faciles uniquement · peu de déplacement · frappes inadaptées</td>
+</tr>
+<tr data-line="124">
+<td><strong>N3</strong> — Engagé</td>
+<td style="text-align:center">6,5 – 8 pts</td>
+<td>Participation active · différenciation claire passe/manchette · service placé · jeu au filet</td>
+<td>Placement organisé · déplacements efficaces · manchettes orientées passeur</td>
+</tr>
+</tbody>
+</table>
+<hr data-line="126">
+<h3 data-line="128" id="C3 — Efficacité dans le rôle d'arbitre et d'observateur">C3 — Efficacité dans le rôle d'arbitre et d'observateur</h3>
+<p data-line="129"><em>/ 4 pts + Ratio V/D / 6 pts · Source : Référentiel DNB uniquement</em></p>
+<blockquote data-line="131">
+<p data-line="131">Aucun équivalent dans le document PDF — critère DNB conservé intégralement.</p>
+</blockquote>
+<p data-line="133"><strong>Indicateurs :</strong></p>
+<ul data-line="134">
+<li data-line="134">Fiabilité des données recueillies</li>
+<li data-line="135">Différenciation et exploitation des données</li>
+<li data-line="136">Justesse des décisions arbitrales</li>
+<li data-line="137">Autonomie dans le rôle</li>
+<li data-line="138">Vocabulaire réglementaire</li>
+</ul>
+<table data-line="140">
+<thead data-line="140">
+<tr data-line="140">
+<th>Niveau</th>
+<th style="text-align:center">Score C3</th>
+<th style="text-align:center">Score V/D</th>
+<th>Descripteurs</th>
+</tr>
+</thead>
+<tbody data-line="142">
+<tr data-line="142">
+<td><strong>N1</strong> — Insuffisamment assurés</td>
+<td style="text-align:center">0 – 1,5 pt</td>
+<td style="text-align:center">0 – 1,5 pt</td>
+<td>Données non fiables · hésite sur actions difficiles · vocabulaire absent</td>
+</tr>
+<tr data-line="143">
+<td><strong>N2</strong> — <strong>Assumés</strong> <em>(avec aide)</em></td>
+<td style="text-align:center">2 – 3 pts</td>
+<td style="text-align:center">1,5 – 3 pts</td>
+<td>Données globales correctes · arbitre <strong>avec aide</strong> · vocabulaire limité</td>
+</tr>
+<tr data-line="144">
+<td><strong>N3</strong> — <strong>Assurés</strong> <em>(en autonomie)</em></td>
+<td style="text-align:center">3,5 – 4 pts</td>
+<td style="text-align:center">3 – 4,5 pts</td>
+<td>Données différenciées · arbitre <strong>en autonomie</strong> · vocabulaire précis</td>
+</tr>
+</tbody>
+</table>
+<hr data-line="146">
+<h2 data-line="148" id="5. Logique de fusion des deux référentiels">5. Logique de fusion des deux référentiels</h2>
+
+        <details data-line="150" class="md-editor-code" open="">
+          <summary class="md-editor-code-head">
+            <div class="md-editor-code-flag"><span></span><span></span><span></span></div>
+            <div class="md-editor-code-action">
+              <span class="md-editor-code-lang"></span>
+              <span class="md-editor-copy-button" data-tips="复制代码">复制代码</span>
+              
+              <span class="md-editor-collapse-tips"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-chevron-left md-editor-icon"><circle cx="12" cy="12" r="10"></circle><path d="m14 16-4-4 4-4"></path></svg></span>
+            </div>
+          </summary>
+          <pre><code class="language-" language=""><span class="md-editor-code-block">DOCUMENT PDF (Bac GT — Jean Prévost)         DOCUMENT DNB (retenu)
+──────────────────────────────────────────────────────────────────────
+Prestation individuelle Attaque   ─┐
+                                   ├──▶  C2 — Efficacité individuelle
+Prestation individuelle Défense   ─┘
+
+Organisation collective           ────▶  C1 — Efficacité collective
+
+(Aucun équivalent dans le PDF)    ────▶  C3 — Rôle arbitre/observateur
+                                         [inchangé — DNB uniquement]</span><span rn-wrapper="" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+
+        </details>
+      <p data-line="163"><strong>Principe :</strong> les observables du PDF ont été attribués au niveau correspondant (N1/N2/N3) en préservant la terminologie exacte des deux sources. Aucun observable n'a été transféré dans un critère sémantiquement incompatible.</p>
+<hr data-line="165">
+<h2 data-line="167" id="6. Points de vigilance enseignant">6. Points de vigilance enseignant</h2>
+<h3 data-line="169" id="⚡ C2 — Attaque vs Défense">⚡ C2 — Attaque vs Défense</h3>
+<p data-line="170">Observer les deux dimensions <strong>séparément</strong> avant de noter. Un élève peut être N3 en attaque et N1 en défense. La note du C2 reflète le <strong>niveau moyen</strong> observé sur les deux dimensions.</p>
+<h3 data-line="172" id="⚡ « Assumés » (N2) ≠ « Assurés » (N3) — C3">⚡ « Assumés » (N2) ≠ « Assurés » (N3) — C3</h3>
+<p data-line="173">Distinction capitale du référentiel DNB :</p>
+<ul data-line="174">
+<li data-line="174"><strong>Assumés</strong> → l'élève remplit le rôle <em>avec l'aide d'un tiers</em> (enseignant, partenaire)</li>
+<li data-line="175"><strong>Assurés</strong> → l'élève remplit le rôle <em>en pleine autonomie</em></li>
+</ul>
+<h3 data-line="177" id="⚑ Règles aménagées (N1 uniquement)">⚑ Règles aménagées (N1 uniquement)</h3>
+<p data-line="178">Service à deux mains autorisé, double touche tolérée. Ces aménagements <strong>ne modifient pas le niveau attribué</strong> mais permettent d'observer les comportements réels.</p>
+<h3 data-line="180" id="ℹ Niveau 4 écarté">ℹ Niveau 4 écarté</h3>
+<p data-line="181">Le profil « Joueur organisateur décisif » est réservé à l'évaluation sommative Bac GT après plusieurs cycles d'apprentissage.</p>
+<hr data-line="183">
+<h2 data-line="185" id="7. Justification scientifique de la distinction N2 / N3">7. Justification scientifique de la distinction N2 / N3</h2>
+<h3 data-line="187" id="[1] Continuité du rapport Vitesse/Direction (V/D)">[1] Continuité du rapport Vitesse/Direction (V/D)</h3>
+<blockquote data-line="188">
+<p data-line="188"><strong>Source :</strong> Gréhaigne, J.-F., Godbout, P. &amp; Bouthier, D. (1999). <em>The foundations of tactics and strategy in team sports.</em> Journal of Teaching in Physical Education, 18(2), 159–174.</p>
+</blockquote>
+<p data-line="190">Le ratio V/D mesure la régularité de l'engagement moteur individuel en jeu collectif.</p>
+<ul data-line="191">
+<li data-line="191"><strong>N2</strong> : actions intermittentes, réussites dépendantes de la facilité de la balle</li>
+<li data-line="192"><strong>N3</strong> : rapport V/D positif maintenu sur l'ensemble du match, interventions régulières et orientées</li>
+</ul>
+<p data-line="194"><em>Application C1 :</em> N2 = 1–2 touches aléatoires ; N3 = 2–3 touches avec intention de placement.<br>
+<em>Application C2 :</em> N2 = « agit sur les balles faciles » ; N3 = « se déplace pour aller chercher la balle ».</p>
+<hr data-line="197">
+<h3 data-line="199" id="[2] Différenciation des gestes et automatisation">[2] Différenciation des gestes et automatisation</h3>
+<blockquote data-line="200">
+<p data-line="200"><strong>Source :</strong> Cleuziou, J.-P. (2004). <em>Enseigner le volley-ball à l'école.</em> Revue EPS, n°309. Paris.</p>
+</blockquote>
+<p data-line="202">Deux stades d'apprentissage :</p>
+<ul data-line="203">
+<li data-line="203"><strong>Stade N2</strong> : différenciation passe/manchette en cours, sans automatisme</li>
+<li data-line="204"><strong>Stade N3</strong> : geste choisi en fonction de la trajectoire, sans hésitation</li>
+</ul>
+<p data-line="206"><em>Application C2 :</em> N2 = « peu de différenciation passe/manchette » ; N3 = « différenciation claire après déplacement ».</p>
+<hr data-line="208">
+<h3 data-line="210" id="[3] Autonomie dans l'organisation collective — modèle FIVB">[3] Autonomie dans l'organisation collective — modèle FIVB</h3>
+<blockquote data-line="211">
+<p data-line="211"><strong>Source :</strong> FIVB (2020). <em>Volleyball Coaching Manual — Level 1.</em> Fédération Internationale de Volleyball, Lausanne.</p>
+</blockquote>
+<ul data-line="213">
+<li data-line="213"><strong>Palier Dependent (N2)</strong> : répond aux consignes, pas d'initiative tactique autonome</li>
+<li data-line="214"><strong>Palier Independent (N3)</strong> : prend des décisions collectives sans sollicitation extérieure</li>
+</ul>
+<p data-line="216"><em>Application C3 :</em> « assumés avec aide » (N2) → « assurés en autonomie » (N3).</p>
+<hr data-line="218">
+<h3 data-line="220" id="Synthèse pour le rapport (Section C1)">Synthèse pour le rapport (Section C1)</h3>
+<blockquote data-line="222">
+<p data-line="222">« La distinction entre les niveaux N2 (Maîtrise fragile) et N3 (Maîtrise satisfaisante) s'appuie sur trois critères scientifiquement établis : (1) la continuité et l'orientation du rapport Vitesse/Direction individuel (Gréhaigne et al., 1999), indicateur de la régularité de l'engagement moteur ; (2) l'automatisation de la différenciation des gestes techniques fondamentaux — passe haute vs manchette — en situation de jeu réelle (Cleuziou, 2004) ; (3) l'autonomie dans la prise de décision collective, distinguant le joueur "dépendant" (N2) du joueur "indépendant" (N3) selon le modèle FIVB (2020).</p>
+<p data-line="224">Ces trois critères se retrouvent dans chacun des critères d'évaluation : le C2 distingue N2 et N3 par la régularité et la différenciation gestuelle ; le C1 par la nature et l'intentionnalité de l'organisation ; le C3 par le passage de l'arbitrage "assumé avec aide" (N2) à l'arbitrage "assuré en autonomie" (N3), conformément aux termes exacts du référentiel DNB. »</p>
+</blockquote>
+<hr data-line="226">
+<h2 data-line="228" id="8. Sources bibliographiques">8. Sources bibliographiques</h2>
+<ol data-line="230">
+<li data-line="230">
+<p data-line="230">Gréhaigne, J.-F., Godbout, P. &amp; Bouthier, D. (1999). <em>The foundations of tactics and strategy in team sports.</em> <strong>Journal of Teaching in Physical Education</strong>, 18(2), 159–174.</p>
+</li>
+<li data-line="232">
+<p data-line="232">Cleuziou, J.-P. (2004). <em>Enseigner le volley-ball à l'école.</em> <strong>Revue EPS</strong>, n°309. Éditions EPS, Paris.</p>
+</li>
+<li data-line="234">
+<p data-line="234">FIVB (2020). <em>Volleyball Coaching Manual — Level 1.</em> Fédération Internationale de Volleyball, Lausanne. <a href="https://www.fivb.com/en/development/coaching">www.fivb.com/en/development/coaching</a></p>
+</li>
+<li data-line="236">
+<p data-line="236">Ministère de l'Éducation nationale (2021). <em>Référentiel d'évaluation — DNB — EPS — Volley-Ball 5c/5.</em> Bulletin Officiel, France.</p>
+</li>
+<li data-line="238">
+<p data-line="238">Lycée Jean Prévost, Montivilliers (oct. 2021). <em>Référentiel Baccalauréat Général et Technologique CA n°4 — Volley-ball 5/5, 1ère.</em> Document interne EPS.</p>
+</li>
+</ol>
+<hr data-line="240">
+<h2 data-line="242" id="9. Application web — Description technique">9. Application web — Description technique</h2>
+<h3 data-line="244" id="Architecture">Architecture</h3>
+<ul data-line="245">
+<li data-line="245"><strong>Framework :</strong> React + Vite (TypeScript)</li>
+<li data-line="246"><strong>Hébergement :</strong> Replit monorepo (<code>artifacts/analyse-ref-volleyball</code>)</li>
+<li data-line="247"><strong>Impression :</strong> <code>@media print</code> A3 paysage, couleurs préservées</li>
+</ul>
+<h3 data-line="249" id="Trois onglets">Trois onglets</h3>
+<table data-line="251">
+<thead data-line="251">
+<tr data-line="251">
+<th>Onglet</th>
+<th>Composant</th>
+<th>Fonction</th>
+</tr>
+</thead>
+<tbody data-line="253">
+<tr data-line="253">
+<td>Grille d'évaluation</td>
+<td><code>GrilleEvaluation.tsx</code></td>
+<td>Tableau classe interactif, imprimable</td>
+</tr>
+<tr data-line="254">
+<td>Fiche d'observation terrain</td>
+<td><code>FicheObservation.tsx</code></td>
+<td>Fiche par élève avec score automatique</td>
+</tr>
+<tr data-line="255">
+<td>Tableau du référentiel</td>
+<td><code>AnalyseReferentiel.tsx</code></td>
+<td>Grille fusionnée 3×3 avec sources</td>
+</tr>
+</tbody>
+</table>
+<h3 data-line="257" id="Grille d'évaluation — fonctionnement">Grille d'évaluation — fonctionnement</h3>
+<ul data-line="258">
+<li data-line="258"><strong>1 ligne = 1 élève</strong> (nom, prénom)</li>
+<li data-line="259"><strong>9 boutons de niveau</strong> : N1/N2/N3 pour C1, C2, C3 — clic pour sélectionner/désélectionner</li>
+<li data-line="260"><strong>Couleurs automatiques</strong> : rouge (N1), jaune (N2), vert (N3)</li>
+<li data-line="261"><strong>Total /20</strong> calculé sur le point médian de la fourchette sélectionnée</li>
+<li data-line="262"><strong>Récapitulatif classe</strong> : comptage par niveau pour chaque critère</li>
+<li data-line="263"><strong>Aide-mémoire</strong> des observables clés en bas de page</li>
+</ul>
+<h3 data-line="265" id="Fourchettes de scores">Fourchettes de scores</h3>
+<table data-line="267">
+<thead data-line="267">
+<tr data-line="267">
+<th>Critère</th>
+<th style="text-align:center">N1</th>
+<th style="text-align:center">N2</th>
+<th style="text-align:center">N3</th>
+</tr>
+</thead>
+<tbody data-line="269">
+<tr data-line="269">
+<td>C1 — Efficacité collective</td>
+<td style="text-align:center">0 – 2,5</td>
+<td style="text-align:center">3 – 4,5</td>
+<td style="text-align:center">5 – 6</td>
+</tr>
+<tr data-line="270">
+<td>C2 — Efficacité individuelle</td>
+<td style="text-align:center">0 – 3,5</td>
+<td style="text-align:center">4 – 6</td>
+<td style="text-align:center">6,5 – 8</td>
+</tr>
+<tr data-line="271">
+<td>C3 — Arbitre / Observateur</td>
+<td style="text-align:center">0 – 1,5</td>
+<td style="text-align:center">2 – 3</td>
+<td style="text-align:center">3,5 – 4</td>
+</tr>
+</tbody>
+</table>
+<h3 data-line="273" id="Fichiers importants">Fichiers importants</h3>
+
+        <details data-line="275" class="md-editor-code" open="">
+          <summary class="md-editor-code-head">
+            <div class="md-editor-code-flag"><span></span><span></span><span></span></div>
+            <div class="md-editor-code-action">
+              <span class="md-editor-code-lang"></span>
+              <span class="md-editor-copy-button" data-tips="复制代码">复制代码</span>
+              
+              <span class="md-editor-collapse-tips"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-chevron-left md-editor-icon"><circle cx="12" cy="12" r="10"></circle><path d="m14 16-4-4 4-4"></path></svg></span>
+            </div>
+          </summary>
+          <pre><code class="language-" language=""><span class="md-editor-code-block">artifacts/analyse-ref-volleyball/
+├── src/
+│   ├── App.tsx                  # Navigation 3 onglets
+│   ├── GrilleEvaluation.tsx     # Grille de classe interactive
+│   ├── FicheObservation.tsx     # Fiche individuelle par élève
+│   ├── AnalyseReferentiel.tsx   # Tableau référentiel fusionné
+│   └── index.css                # Styles complets (DNB colors)
+├── vite.config.ts
+└── package.json</span><span rn-wrapper="" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+
+        </details>
+      <hr data-line="287">
+<h2 data-line="289" id="10. Formulations suggérées pour le rapport">10. Formulations suggérées pour le rapport</h2>
+<h3 data-line="291" id="Section A — Présentation du référentiel retenu">Section A — Présentation du référentiel retenu</h3>
+<blockquote data-line="293">
+<p data-line="293">« Le référentiel d'évaluation retenu pour cette séquence de Volley-Ball (5c/5) s'articule autour de trois critères issus du référentiel DNB, enrichis par les observables du référentiel Bac GT du Lycée Jean Prévost (oct. 2021). Le Critère 1 (Efficacité collective) intègre les indicateurs d'organisation collective du référentiel lycée. Le Critère 2 (Efficacité individuelle) fusionne les dimensions "Prestation individuelle Attaque" et "Prestation individuelle Défense" du PDF, en préservant les observables par niveau. Le Critère 3 (Rôle arbitre/observateur) est issu exclusivement du référentiel DNB. Trois niveaux de maîtrise ont été retenus : N1 (insuffisante), N2 (fragile), N3 (satisfaisante). »</p>
+</blockquote>
+<h3 data-line="295" id="Section B — Spécificités terrain">Section B — Spécificités terrain</h3>
+<blockquote data-line="297">
+<p data-line="297">« Pour les élèves de Niveau 1, des aménagements de règles peuvent être mis en place (service à deux mains, double touche tolérée). Ces aménagements ne modifient pas le niveau attribué mais facilitent l'observation des comportements réels. Pour le Critère 1, l'enseignant doit distinguer les équipes qui jouent à 1 touche par nécessité (N1) de celles qui le font par choix tactique délibéré — cette distinction constitue un indicateur fiable du passage N2 → N3. »</p>
+</blockquote>
+<h3 data-line="299" id="Section D — Conclusion">Section D — Conclusion</h3>
+<blockquote data-line="301">
+<p data-line="301">« Ce référentiel fusionné intègre la richesse descriptive du référentiel lycée (observables terrain précis, distinctions attaque/défense) dans la structure officielle du DNB (trois critères, terminologie réglementaire). Il permet à l'enseignant d'effectuer une évaluation diagnostique fiable en 2–3 échanges par élève, tout en disposant d'un outil directement exploitable pour la constitution des groupes de besoin et l'adaptation des situations d'apprentissage. »</p>
+</blockquote>
+<hr data-line="303">
+<p data-line="305"><em>Généré en mai 2026 — Équipe COLL3 ADP</em><br>
+<em>Fusion : Référentiel DNB + Référentiel Bac GT (Lycée Jean Prévost, oct. 2021)</em></p>
+</div>
+  </div>
+</body>
+</html>
