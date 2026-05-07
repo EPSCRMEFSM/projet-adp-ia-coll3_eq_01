@@ -1,0 +1,85 @@
+================================================================================
+  codes_VLB_DI-VLB.txt — TABLEAU DES CODES COMPORTEMENTAUX
+  APS : Volleyball | CODE : DI-VLB
+  ADP 2026 — CRMEF Inezgane — COLL3
+  Type : DI — Diagnostique Initial · Pas de note /20
+  Source : Planificateur de Cycle EPS v5 — BOUARGANE
+================================================================================
+
+CONVENTION COULEURS OBLIGATOIRE
+  Degré A → fond #FCEBEB · Arial Bold ≥ 14pt  (rouge clair — N1 Le Sauveur)
+  Degré B → fond #FAEEDA · Arial Bold ≥ 14pt  (amber clair — N2 Le Renvoyeur)
+  Degré C → fond #EAF3DE · Arial Bold ≥ 14pt  (vert clair  — N3 Le Constructeur)
+
+RÈGLE CODES : 2 caractères MAX · 1 seul code par case · jamais 2
+GESTE TERRAIN : ENTOURER le code dominant (A · B · C)
+DURÉE MAX     : 2 secondes par élève
+ORDRE SAISIE  : séquentiel élève 1 → élève N
+DOUTE         : case vide + "?" · jamais inventer
+
+────────────────────────────────────────────────────────────────────────────────
+SECTION 1 — TABLEAU DES CODES COMPORTEMENTAUX
+────────────────────────────────────────────────────────────────────────────────
+
+OBS-01 — Efficacité collective · Jeu (/6)
+  Degré A [#FCEBEB] : FP  ·  Frappe seule, aucun relais, balle sauvegardée
+  Degré B [#FAEEDA] : RD  ·  Renvoi direct sans construction collective
+  Degré C [#EAF3DE] : JC  ·  Jeu construit, relais avants-arrières organisé
+
+OBS-02 — Efficacité collective · Matchs (/2)
+  Degré A [#FCEBEB] : PE  ·  Peu d'échanges, balle perdue rapidement
+  Degré B [#FAEEDA] : EM  ·  Échanges courts, organisation partielle visible
+  Degré C [#EAF3DE] : EL  ·  Échanges longs, dispositif collectif stable
+
+OBS-03 — Efficacité individuelle · Attaque (/4)
+  Degré A [#FCEBEB] : FA  ·  Frappe aléatoire, espace adverse non ciblé
+  Degré B [#FAEEDA] : AT  ·  Attaque directe, zone adverse non choisie
+  Degré C [#EAF3DE] : AV  ·  Attaque variée, espaces libres exploités
+
+OBS-04 — Efficacité individuelle · Défense (/4)
+  Degré A [#FCEBEB] : IM  ·  Immobile, aucune lecture de trajectoire
+  Degré B [#FAEEDA] : RT  ·  Réaction tardive, déplacement limité
+  Degré C [#EAF3DE] : DA  ·  Défense active, manchette maîtrisée
+
+OBS-05 — Rôle arbitre / observateur (/4)
+  Degré A [#FCEBEB] : RA  ·  Rôle absent, aucune observation structurée
+  Degré B [#FAEEDA] : RP  ·  Rôle partiel, quelques interventions ponctuelles
+  Degré C [#EAF3DE] : RM  ·  Rôle maîtrisé, arbitrage structuré et continu
+
+────────────────────────────────────────────────────────────────────────────────
+SECTION 2 — CORRESPONDANCE NIVEAUX / CODES / CONDUITES TYPIQUES
+────────────────────────────────────────────────────────────────────────────────
+
+NIVEAU 1 — Le Sauveur · Maîtrise insuffisante · Codes → Degré A
+  OT Étape 1 : Frapper sans appréhension, se déplacer vers la balle,
+               l'orienter vers la cible adverse.
+  CT1 · FP : Frappes explosives et inadaptées / l'adversaire c'est la balle
+  CT2 · IM : Peu de mobilité / pas de lecture de trajectoire
+  CT3 · RA : Absence de coopération / notion de rôle inexistante
+
+NIVEAU 2 — Le Renvoyeur · Maîtrise fragile · Codes → Degré B
+  OT Étape 2 : Passer du renvoi direct au renvoi construit avec relais.
+  CT1 · RD : Renvoi direct systématique / jeu similaire au tennis
+  CT2 · RT : NPB joueur de soutien passif / pas de relais organisé
+  CT3 · RP : Grappe dynamique près du filet / espace non différencié
+
+NIVEAU 3 — Le Constructeur · Maîtrise satisfaisante · Codes → Degré C
+  OT Étape 3 : Attaquer intentionnellement les espaces libres adverses.
+  CT1 · JC : Dispositif étagé construit / mais attaques peu variées
+  CT2 · DA : Relations avants/arrières difficiles / avants dos au filet
+  CT3 · EL : Peu d'échanges longs / risque de perte de balle
+
+────────────────────────────────────────────────────────────────────────────────
+SECTION 3 — RÈGLES TRANSVERSALES
+────────────────────────────────────────────────────────────────────────────────
+
+  RÈGLE 1 : 1 seul code par case · jamais 2
+  RÈGLE 2 : Doute → case vide + "?" · jamais inventer
+  RÈGLE 3 : Code dominant = ce qui est vu EN PREMIER
+  RÈGLE 4 : Stylo noir uniquement · pas de crayon
+  RÈGLE 5 : Tester avant séance → 3 élèves · 2 minutes
+
+────────────────────────────────────────────────────────────────────────────────
+  FIN — codes_VLB_DI-VLB.txt · TABLEAU CODES SEUL · pour outil HTML
+  ADP2026 · DNB · VOLLEY-BALL · Évaluation Diagnostique
+================================================================================
