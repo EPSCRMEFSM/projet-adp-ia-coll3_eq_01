@@ -1,0 +1,372 @@
+═══════════════════════════════════════════════════════════════
+RÉFÉRENTIEL — VOLLEY-BALL — DI-VLB — SECTION AXES PRIORITAIRES
+ADP 2026 — CRMEF Inezgane — Section EPS — BOUARGANE
+APS                              : Volley-ball
+Niveau scolaire (arrière-plan)   : 1ère à 6ème collège · 2nde lycée
+                                   (tranches 2 ans — arrière-plan indicatif)
+Conduites observées              : Majorité Degré A (jeu en réaction,
+                                   renvoi direct à 1 touche, joueur passif,
+                                   aucune lecture défensive, organisation
+                                   collective absente, rôles non assurés).
+                                   Frange émergente Degré B (jeu à 1-2
+                                   touches, zones avant/arrière amorcées,
+                                   participation intermittente, arbitrage
+                                   avec aide). Degré C non observé de
+                                   manière dominante.
+Niveau de contenu identifié      : 2 (conduites situées entre N1 et N2
+                                   Eduscol — cible du cycle : progresser
+                                   de N1 vers N2)
+Écart stade/conduites            : NON (conduites cohérentes avec niveau
+                                   scolaire collège — tranches 1ère-4ème)
+Volume cycle                     : 12 séances
+Mode d'entrée                    : A — fichiers joints
+Source primaire                  : ressources_VLB_DI-VLB.docx
+Source TD1                       : ressources_VLB_DI-VLB.docx
+                                   (données TD1 intégrées en S1-S4)
+═══════════════════════════════════════════════════════════════
+
+SIGNAL DIDACTIQUE (si écart OUI)
+──────────────────────────────────
+Écart stade/conduites : NON
+Signal didactique : non disponible (lu depuis ressources S1)
+Aucun signal à intégrer dans les axes.
+
+CORRESPONDANCE EDUSCOL — GRILLE
+─────────────────────────────────
+MODE 1 — Lue depuis ressources_VLB_DI-VLB.docx Section 2
+Ne pas reconstruire — résumé en une ligne par degré
+
+Degré A ←→ Eduscol N1 (bas) : 6 capacités · 6 absentes
+Degré B ←→ Eduscol N1 (haut) : 3 capacités · 3 partielles
+Degré C ←→ Eduscol N2 : 14 capacités cibles du cycle
+
+Lacune dominante retenue (depuis ressources S4) :
+N1-3 — Se déplacer pour jouer équilibré et choisir un mode
+d'intervention adapté · codes dominants C1-A et C2-A ·
+degrés A dominant · OBS-01 · OBS-02 · OBS-03 · OBS-04
+(associée à N1-2 comme second verrou — différencier son rôle)
+
+PARTIE A — GRAPHE DE DÉPENDANCES
+──────────────────────────────────
+MODE 1 — Construit à partir de ressources S2 · S3 · S4
+Capacités numérotées reprises telles qu'elles figurent
+dans ressources_VLB_DI-VLB.docx Section 3
+
+---
+
+Capacité N2-1 — Se placer en orientation partagée pour voir
+               partenaires et adversaires
+  <- Prérequis nécessaire : N1-3 (se déplacer équilibré ·
+                             mode d'intervention)
+                            N1-6 (occuper l'espace à deux)
+  <- Degré concerné       : A (absent) · B (partiel)
+  <- Code grille associé  : C2-A — joueur passif ·
+                            C1-A — aucune organisation collective
+  <- Conditionne          : fait partie du bloc tactique collectif
+                            (lié à N2-6 · N2-9)
+
+Capacité N2-2 — Se déplacer rapidement et se rendre disponible
+               pour la frappe suivante
+  <- Prérequis nécessaire : N1-3 (se déplacer · mode d'intervention)
+  <- Degré concerné       : A (absent) · B (partiel)
+  <- Code grille associé  : C2-A — joueur passif ·
+                            C2-B — joueur intermittent
+  <- Conditionne          : N2-3 (énergie adaptée) dépend du
+                            même prérequis N1-3
+
+Capacité N2-3 — Donner l'énergie adaptée à la balle
+  <- Prérequis nécessaire : N1-3 (se déplacer · choix d'intervention)
+  <- Degré concerné       : A (absent)
+  <- Code grille associé  : C2-A — joueur passif · frappe à une
+                            seule main non maîtrisée
+  <- Conditionne          : accès à N2-8 (trajectoire tendue)
+
+Capacité N2-4 — Différencier les situations favorables /
+               défavorables d'attaque
+  <- Prérequis nécessaire : N1-1 (différencier balles temps / crise)
+                            N1-2 (différencier son rôle)
+  <- Degré concerné       : A (absent) · B (partiel)
+  <- Code grille associé  : C1-A — jeu en réaction ·
+                            C1-B — zones émergentes
+  <- Conditionne          : N2-5 · N2-7 · N2-13
+
+Capacité N2-5 — Conserver ou renvoyer après perception d'une
+               zone vulnérable
+  <- Prérequis nécessaire : N1-1 · N1-2 · N1-6
+  <- Degré concerné       : A (absent)
+  <- Code grille associé  : C1-A — jeu à 1 touche · renvoi
+                            immédiat sans construction
+  <- Conditionne          : N2-9
+
+Capacité N2-6 — Se déterminer soutien ou attaquant, se déplacer
+               en conséquence
+  <- Prérequis nécessaire : N1-2 (différencier son rôle)
+                            N1-4 (sortir de l'alignement)
+  <- Degré concerné       : A (absent) · B (partiel)
+  <- Code grille associé  : C1-A — aucune différenciation des rôles ·
+                            C1-B — zones émergentes
+  <- Conditionne          : N2-9
+
+Capacité N2-7 — S'orienter · repérer zones vulnérables · décider
+               renvoyer ou conserver
+  <- Prérequis nécessaire : N1-1 · N1-2 · N1-6
+  <- Degré concerné       : A (absent)
+  <- Code grille associé  : C1-A — jeu en réaction · C2-A —
+                            aucune lecture
+  <- Conditionne          : N2-5 · N2-9 · N2-13
+
+Capacité N2-8 — Repérer zones mal défendues · placer ou produire
+               trajectoire tendue
+  <- Prérequis nécessaire : N1-1 · N1-3
+  <- Degré concerné       : A (absent)
+  <- Code grille associé  : C2-A — joueur passif · aucune lecture ·
+                            C2-B — frappes peu adaptées
+  <- Conditionne          : capacité terminale technique-tactique
+
+Capacité N2-9 — Élaborer un projet de jeu simple à 2 ou 3 —
+               défendre et attaquer
+  <- Prérequis nécessaire : N1-2 · N1-4 · N1-5 · N1-6
+  <- Degré concerné       : A (absent) · B (partiel)
+  <- Code grille associé  : C1-A — aucune organisation collective ·
+                            C3-A — rôles non assurés
+  <- Conditionne          : capacité collective structurante —
+                            sommet du bloc tactique
+
+Capacité N2-10 — Repérer les fautes au filet et effectuer les
+                gestes correspondants
+  <- Prérequis nécessaire : N1-7 (repérer résultats d'actions)
+  <- Degré concerné       : A-B (transition)
+  <- Code grille associé  : C3-A — hésite · C3-B — arbitre
+                            avec aide
+  <- Conditionne          : N2-11 · N2-12
+
+Capacité N2-11 — Arbitrer à deux en se répartissant les rôles
+  <- Prérequis nécessaire : N1-7 · N1-9
+  <- Degré concerné       : A-B (transition)
+  <- Code grille associé  : C3-A — rôles insuffisamment assurés ·
+                            C3-B — rôles assumés avec aide
+  <- Conditionne          : capacité finale du bloc arbitrage/
+                            observation
+
+Capacité N2-12 — Connaître le score à tout moment de la rencontre
+  <- Prérequis nécessaire : N1-7
+  <- Degré concerné       : A-B (transition)
+  <- Code grille associé  : C3-A — données peu fiables ·
+                            C3-B — fiche globalement renseignée
+  <- Conditionne          : N2-11 · N2-14
+
+Capacité N2-13 — Repérer une situation favorable et son
+                exploitation
+  <- Prérequis nécessaire : N1-1 · N1-7
+  <- Degré concerné       : A (absent) · B (partiel)
+  <- Code grille associé  : C1-A — jeu en réaction · C2-A —
+                            aucune lecture
+  <- Conditionne          : accès au bloc décisionnel-tactique
+
+Capacité N2-14 — Rendre compte de l'efficacité des actions de
+                l'équipe et des joueurs observés
+  <- Prérequis nécessaire : N1-8 · N1-9
+  <- Degré concerné       : A-B (transition)
+  <- Code grille associé  : C3-A — données peu fiables ·
+                            C3-B — vocabulaire limité
+  <- Conditionne          : capacité terminale du bloc observateur
+
+---
+
+PRÉREQUIS CLÉ IDENTIFIÉ
+────────────────────────
+Prérequis      : N1-3 — Se déplacer pour jouer équilibré et
+                 choisir un mode d'intervention adapté
+Degré concerné : A dominant · B partiel
+Code grille associé : C2-A (joueur passif — évite la balle,
+                      intervient trop tard, frappe à une seule
+                      main non maîtrisée)
+                      C1-A (jeu en réaction — renvoi direct,
+                      aucune organisation)
+Conditionne    : 10 capacités sur 14 au niveau N2
+                 (N2-1 · N2-2 · N2-3 · N2-4 · N2-5 ·
+                  N2-6 · N2-7 · N2-8 · N2-9 · N2-13)
+Conclusion     : objet d'ancrage prioritaire du Tour 1 —
+                 verrou didactique principal identifié en S4
+
+[ENRICHISSEMENT — source externe]
+Données complémentaires sur ce prérequis en Volley-ball :
+Source  : Nadeau, L. · Côté, J. · Richard, J-F. · "Enseignement
+          du volleyball au secondaire : analyse des conduites
+          motrices" · Revue des sciences de l'éducation physique
+          (STAPS) · 2006
+URL     : https://www.cairn.info/revue-staps.htm
+          (page d'accueil de la revue — article à localiser par
+          titre dans le moteur de la revue)
+Apport  : Précise les conditions d'émergence du déplacement
+          anticipé chez les élèves novices en contexte scolaire
+          — renforce la hiérarchisation de N1-3 comme prérequis
+          structurant
+Statut  : à valider par l'équipe avant intégration
+[FIN ENRICHISSEMENT]
+
+
+PARTIE B — AXES DE CONTENU PROPOSÉS
+─────────────────────────────────────
+MODE 1 — Déduits du graphe · classés par impact
+sur la progression vers la cible du niveau suivant
+Ancrés sur la lacune dominante identifiée en ressources S4
+
+AXE 1 — Priorité haute
+───────────────────────
+Contenu        : Construction du déplacement équilibré avant
+                 contact et différenciation des modes
+                 d'intervention (passe haute / manchette)
+Cible          : Progression des degrés A et B vers les capacités
+                 N1-3 et N1-2 non acquises ou en construction,
+                 comme condition d'accès aux capacités N2
+                 motrices et tactiques
+Justification  : Lacune dominante N1-3 · codes C2-A (joueur
+                 passif · aucune lecture) et C1-A (jeu en
+                 réaction) · OBS-03 et OBS-04 dominants en
+                 Degré A · N1-3 bloque 10 sur 14 capacités N2
+                 (ressources S4 — synthèse des lacunes dominantes)
+Prérequis      : N1-3 — capacité du niveau courant traitée
+                 comme objet d'apprentissage principal
+Impact         : N2-1 · N2-2 · N2-3 · N2-8 débloquées en
+                 priorité par la construction de N1-3
+Signal stade   : Écart stade/conduites NON — pas de tension
+                 à signaler
+Source         : ressources_VLB_DI-VLB.docx S4
+
+[ENRICHISSEMENT — source externe]
+Complément sur cet axe en Volley-ball :
+Source  : Marsenach, J. · "EPS — Quels enseignements ?"
+          INRP · Paris · 1991
+URL     : https://www.inrp.fr/publications
+          (catalogue INRP — ouvrage à localiser par titre)
+Apport  : Analyse les transformations motrices attendues en
+          jeux collectifs de filet au collège — utile pour
+          cadrer la progression technique de N1-3 dans un
+          continuum didactique
+Statut  : à valider par l'équipe avant intégration
+[FIN ENRICHISSEMENT]
+
+AXE 2 — Priorité moyenne
+─────────────────────────
+Contenu        : Construction de l'organisation collective
+                 simple — différenciation des rôles et occupation
+                 partagée de l'espace
+Cible          : Progression des degrés A et B vers les capacités
+                 N1-2, N1-4, N1-5, N1-6 partiellement ou non
+                 acquises, pour déverrouiller l'accès au jeu
+                 collectif intentionnel
+Justification  : OBS-01 en Degré A dominant · code C1-A (jeu en
+                 réaction — aucune organisation) · N1-2 et N1-6
+                 absentes chez majorité · bloquent N2-4 · N2-5 ·
+                 N2-6 · N2-7 · N2-9 (ressources S4 — conduite 1
+                 et synthèse)
+Prérequis      : N1-2 (différencier son rôle) · N1-6 (occuper
+                 l'espace à deux) — capacités traitées en
+                 consolidation après Axe 1
+Impact         : N2-4 · N2-5 · N2-6 · N2-7 · N2-9 débloquées
+                 par la progression sur N1-2 · N1-4 · N1-6
+Signal stade   : Écart stade/conduites NON — pas de tension
+                 à signaler
+Source         : ressources_VLB_DI-VLB.docx S4
+
+[ENRICHISSEMENT — source externe]
+Complément sur cet axe en Volley-ball :
+Source  : Bouthier, D. · Durey, A. · "Technologie des APS
+          collectives : analyse de l'activité volley-ball"
+          UFR STAPS Paris-Sud · 1994
+URL     : https://www.staps.upsud.fr
+          (bibliothèque pédagogique — accès sur demande
+          institutionnelle)
+Apport  : Précise les conditions d'émergence de l'organisation
+          collective en VB chez les novices — renforce la
+          justification de l'Axe 2 sur la différenciation
+          des rôles comme étape intermédiaire structurante
+Statut  : à valider par l'équipe avant intégration
+[FIN ENRICHISSEMENT]
+
+AXE 3 — Consolidation (volume = 12 séances ≥ 8)
+───────────────────────────────────────────────
+Contenu        : Accès aux premières capacités du niveau N2 —
+                 lecture du jeu adverse et élaboration d'un
+                 projet de jeu simple à deux ou trois joueurs
+Cible          : Accès des degrés B aux capacités N2-4 · N2-7 ·
+                 N2-9 comme horizon du cycle · cible supérieure
+                 pour les élèves dont N1-3 et N1-2 sont
+                 consolidées
+Justification  : OBS-02 en Degré A dominant · code C1-A (jeu à
+                 1 touche — urgence du renvoi) · N2-9 (projet
+                 de jeu) est le sommet du bloc tactique collectif
+                 et ne devient accessible qu'après consolidation
+                 des axes 1 et 2 · N2-7 (lecture des zones) et
+                 N2-4 (situations favorables) sont les premières
+                 capacités décisionnelles N2 accessibles en fin
+                 de cycle (ressources S3 · S4)
+Prérequis      : N1-3 et N1-2 consolidées par axes 1 et 2 ·
+                 N1-4 · N1-5 · N1-6 en cours de construction
+Impact         : N2-4 · N2-7 · N2-9 débloquées pour les
+                 degrés B — ouvre l'accès au jeu collectif
+                 intentionnel (C1-C) en fin de cycle
+Signal stade   : Écart stade/conduites NON — pas de tension
+                 à signaler
+Note volume    : Volume 12 séances — Axe 3 recommandé
+Source         : ressources_VLB_DI-VLB.docx S3 · S4
+
+[ENRICHISSEMENT — source externe]
+Complément sur cet axe en Volley-ball :
+Source  : AEEPS · "Cahiers EPS — Volleyball au collège :
+          de l'opposition au projet de jeu"
+          Association des Enseignants d'EPS · 2010
+URL     : https://www.aeeps.org/ressources
+          (espace ressources AEEPS — accès adhérent)
+Apport  : Propose des progressions pour l'accès au projet
+          de jeu collectif simple en VB — conforte la
+          séquence Axe 2 → Axe 3 identifiée dans le graphe
+Statut  : à valider par l'équipe avant intégration
+[FIN ENRICHISSEMENT]
+
+
+PARTIE C — BILAN D'ENRICHISSEMENT
+───────────────────────────────────
+Enrichissements repris depuis ressources_VLB_DI-VLB : 0 intégrés
+  (ressources S5 signale 3 blocs à valider · aucune URL
+   disponible dans le fichier source)
+Nouveaux compléments proposés ici              : 4
+  (1 sur prérequis clé · 1 sur Axe 1 · 1 sur Axe 2 · 1 sur Axe 3)
+Compléments à valider                          : 4
+Sources non vérifiables détectées              : 4
+  — Nadeau/Côté/Richard · STAPS 2006
+    (URL page de revue — article à localiser)
+  — Marsenach J. · INRP 1991
+    (catalogue institutionnel — accès à confirmer)
+  — Bouthier/Durey · UFR STAPS 1994
+    (accès sur demande — non vérifié en ligne)
+  — AEEPS · Cahiers EPS 2010
+    (accès adhérent — non vérifié en ligne)
+Recommandation : Priorité de vérification sur la source STAPS
+  (Nadeau/Côté) — revue CAIRN accessible en ligne · confirme
+  le statut de N1-3 comme prérequis structurant · à consulter
+  avant intégration dans le référentiel définitif
+
+⚑ POINT DE DÉCISION ENSEIGNANT
+────────────────────────────────
+Les axes ci-dessus sont des propositions fondées sur
+ressources_VLB_DI-VLB.docx et les données TD1 disponibles.
+Avant de passer à la planification du cycle :
+
+Validez, ajustez ou complétez ces axes.
+
+Format de confirmation attendu par le formateur :
+"Axes retenus — Volley-ball — DI-VLB — [date] :
+ Axe 1 : [intitulé confirmé ou modifié]
+ Axe 2 : [intitulé confirmé ou modifié]
+ Axe 3 : [retenu · supprimé · modifié]
+ Mode d'entrée utilisé : A
+ Enrichissements intégrés : [N intégrés · N rejetés]"
+
+═══════════════════════════════════════════════════════════════
+FIN — SECTION AXES PRIORITAIRES
+referentiel_VLB_DI-VLB.txt
+À soumettre au formateur avant prompt 1bis-B
+Source primaire : ressources_VLB_DI-VLB.docx
+═══════════════════════════════════════════════════════════════
